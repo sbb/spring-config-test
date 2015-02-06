@@ -6,3 +6,7 @@ foo: from git server!!!!
 
 git:
   default: from git server!!!
+
+config:
+  test:
+    var1: from git server!!!
