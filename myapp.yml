@@ -3,3 +3,6 @@ hi: there
 
 new: entry in server
 foo: from git server!!!!
+
+git:
+  default: from git server!!!
